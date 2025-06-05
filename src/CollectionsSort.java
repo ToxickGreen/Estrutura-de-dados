@@ -23,7 +23,7 @@ public class CollectionsSort {
             System.out.print("Digite sua escolha: ");
             int opc = scanner.nextInt();
 
-            if (opc < 0 || opc > 2) {
+            if (opc < 0 || opc > 3) {
                 System.out.println("Opção inválida");
             }
 
